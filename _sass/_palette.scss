@@ -1,0 +1,19 @@
+
+$black:  #101010;
+$white:  #fff6f0;
+$accent: #ff2e70;
+
+$gray1: lighten($black, 36%);
+$gray2: lighten($black, 46%);
+$gray3: lighten($black, 56%);
+$gray4: lighten($black, 76%);
+$gray5: lighten($black, 80%);
+
+$roman: 400;
+$bold: 700;
+
+$typecolor: $black;
+$fontstack: "EB Garamond", Georgia, "Times New Roman", serif;
+$titlestack: $fontstack;
+$fontweight: $roman;
+$titleweight: $bold;
