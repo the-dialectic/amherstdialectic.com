@@ -1,8 +1,8 @@
+- text: "About Us"
+  link: /about
 - text: "FAQ"
   link: /faq
 - text: "Submissions"
   link: /submission
 - text: "Articles"
   link: /articles
-- text: "Archive"
-  link: /archive
