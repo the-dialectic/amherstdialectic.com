@@ -19,7 +19,7 @@ The Dialectic is always looking for new editors. Interested individuals should c
 
 **Are works published by The Dialectic copyrighted?**
 
-The Dialectic operates under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) licence, which dictates that other people may reproduce works published by The Dialectic. If they do so, however, they must credit The Dialectic. 
+The Dialectic operates under the CC BY-NC-SA 4.0. This means that you can reproduce works from _The Dialectic_ but you can't sell them. If you make any derivative works, you cannot sell those either. [Learn more.](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 **Are Amherst faculty involved with The Dialectic?**
 Yes. Several Amherst College professors assist in selecting and editing papers.
