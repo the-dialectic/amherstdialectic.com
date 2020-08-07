@@ -15,6 +15,7 @@ Yes, _The Dialectic_ accepts class papers, so long as they aren’t already publ
 At the moment, _The Dialectic_ only publishes online. When more students are permitted on campus, we may begin producing print issues. 
 
 **How can I get involved in the editing and publication of the papers?**
+
 _The Dialectic_ is always looking for new editors. Interested individuals should contact us at theamherstdialectic@gmail.com. Due to logistical limitations, only current students at Amherst College may apply to be editors. 
 
 **Are works published by _The Dialectic_ copyrighted?**
@@ -22,5 +23,6 @@ _The Dialectic_ is always looking for new editors. Interested individuals should
 _The Dialectic_ operates under the CC BY-NC-SA 4.0. This means that you can reproduce works from _The Dialectic_ but you can't sell them. If you make any derivative works, you cannot sell those either. [Learn more.](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
 
 **Are Amherst faculty involved with _The Dialectic_?**
+
 Yes. Several Amherst College professors assist in selecting and editing papers.
 
