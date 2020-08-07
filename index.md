@@ -6,13 +6,11 @@ permalink: /
 
 # _The Dialectic_
 
-
 ## Who Are We?
 
-The Amherst Dialectic is Amherst College’s newest interdisciplinary academic journal. At The Dialectic, we strive to explore the roots of pressing issues facing contemporary society, with a particular focus on political and historical inquiry.
+_The Amherst Dialectic_ is Amherst College’s newest interdisciplinary academic journal. At _The Dialectic_, we strive to explore the roots of pressing issues facing contemporary society, with a particular focus on political and historical inquiry.
 
-## _This Semester's Topic:_
-## _Catastrophe_
+## This Semester's Topic: _"Catastrophe"_
 
 Catastrophes are sudden. At any given time, they can come about with calamitous force and bring about a wave of disruption that can last from moments to years. But their suddenness doesn’t mean that they must remain mysteries under an analytical gaze. Rather, these catastrophes are often emblematic of underlying societal mechanisms and pathologies, both in how they arise and in how we react. They reveal truths about our systems and institutions by showing us the extreme.
 
