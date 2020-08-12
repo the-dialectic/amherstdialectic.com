@@ -8,11 +8,7 @@ permalink: /
 
 ## Who Are We?
 
-<<<<<<< HEAD
-The Amherst Dialectic is Amherst College’s newest academic journal. At The Dialectic, we strive to explore the roots of pressing issues facing contemporary society, with a particular focus on political and historical inquiry.
-=======
 _The Amherst Dialectic_ is Amherst College’s newest interdisciplinary academic journal. At _The Dialectic_, we strive to explore the roots of pressing issues facing contemporary society, with a particular focus on political and historical inquiry.
->>>>>>> 2690e3e2e4be2867319a1b1851796b142994721e
 
 ## This Semester's Topic: _"Catastrophe"_
 
