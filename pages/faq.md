@@ -23,4 +23,3 @@ The Dialectic operates under the CC BY-NC-SA 4.0. This means that you can reprod
 **Does the Amherst faculty have a role in The Dialectic?**
 
 Yes. Several Amherst College professors assist in selecting and editing papers.
-
