@@ -6,7 +6,7 @@ permalink: /about
 
 # _About Us_
 
-At The Dialectic, we explore big concepts. 
+At _The Dialectic_, we explore big concepts. 
 
 
 We devote each of our semesterly issues to discussion of a general theme relevant to the world today. The current issue's theme will be 'Catastrophe.' Each of our student authors — chosen from a variety of schools and disciplines across the country — will use their own skills and academic specialities to grapple with the questions and ideas present in that theme and in its modern context. 
