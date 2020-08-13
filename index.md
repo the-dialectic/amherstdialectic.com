@@ -10,7 +10,7 @@ permalink: /
 
 _The Amherst Dialectic_ is Amherst College’s newest interdisciplinary academic journal. At _The Dialectic_, we strive to explore the roots of pressing issues facing contemporary society, with a particular focus on political and historical inquiry.
 
-*We are currently searching for editors and contributors for our first issue, to be published tentatively in December 2020. Email amherstdialectic@gmail.com if interested.*
+***We are currently searching for editors and contributors for our first issue, to be published tentatively in December 2020. Email amherstdialectic@gmail.com if interested.***
 
 ## This Semester's Topic: _"Catastrophe"_
 
