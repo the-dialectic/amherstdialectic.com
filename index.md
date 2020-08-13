@@ -19,3 +19,7 @@ To many people, we are currently living in the midst of a catastrophe. Its exact
 Examining catastrophes forces us to confront cutting questions. What can catastrophes past and present reveal about the state of our society? Do catastrophes come from bad luck and misfortune, or do they require pre-existing conditions? What makes catastrophes so physically and psychologically damaging? How can society prepare for and cope with events that are, by their very nature, unpredictable and disruptive?  And finally, what avenues for positive change can a catastrophe open? 
 
 These questions don’t have easy answers, but with the combined work of numerous gifted writers and researchers from across the country, we hope to provide insight into the nature of catastrophes past and present. 
+
+## Interested in Working With Us?
+
+We're always looking for editors and contributors! Interested individuals should fill out [this] (https://forms.gle/a7kTJduUjPWCJTVR8) form. 
