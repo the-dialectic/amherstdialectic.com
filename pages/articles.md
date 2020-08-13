@@ -6,5 +6,5 @@ permalink: /articles
 
 {% for post in site.posts %}
   <h1><a class="nounderline black" href="{{ post.url }}">{{ post.title }}</a></h1>
-  {{ post.excerpt }}
+  {{ Content forthcoming! }}
 {% endfor %}
