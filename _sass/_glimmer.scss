@@ -4,9 +4,6 @@
   --container-width: 32rem;
 }
 
-body {
-	background-color: #b7a5d3;
-}
 
 // columns
 
@@ -42,7 +39,7 @@ body {
 .nine    { width: calc(100%*9/12);  }
 .ten     { width: calc(100%*10/12); }
 .eleven  { width: calc(100%*11/12); }
-.twelve  { width: calc(100%*12/12); background-color: white; }
+.twelve  { width: calc(100%*12/12); }
 
 // images
 
