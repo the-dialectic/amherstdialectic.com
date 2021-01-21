@@ -7,7 +7,7 @@ permalink: /articles
 
 
 
-[Issue 1: Winter 2020] (https://issuu.com/thomasbrodey/docs/the-dialectic-winter-2020)
+[Issue 1: Winter 2020](https://issuu.com/thomasbrodey/docs/the-dialectic-winter-2020)
 {% for post in site.posts %}
   <h1><a class="nounderline black" href="{{ post.url }}">{{ post.title }}</a></h1>
   {{ Content forthcoming! }}
