@@ -19,3 +19,4 @@ permalink: /articles
   <h1><a class="nounderline black" href="{{ post.url }}">{{ post.title }}</a></h1>
   {{ Content forthcoming! }}
 {% endfor %}
+[Issue 2: Summer 2021]
