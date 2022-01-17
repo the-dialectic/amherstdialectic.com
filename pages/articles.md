@@ -7,7 +7,7 @@ permalink: /articles
 
 
 
-[Issue 1: Winter 2020](https://issuu.com/thomasbrodey/docs/the-dialectic-winter-2020)
+[Catastrophe: Winter 2020](https://issuu.com/thomasbrodey/docs/the-dialectic-winter-2020)
 * An Interview with Professor Lawrence Douglas
 * Planes, Strains, and Hurricanes: Elections in the Wake of Catastrophe by Cole Graber-Michell 
 * War or Peace: Napoleon and the Sixth Coalition by Theo Hamilton 
@@ -19,7 +19,7 @@ permalink: /articles
   <h1><a class="nounderline black" href="{{ post.url }}">{{ post.title }}</a></h1>
   {{ Content forthcoming! }}
 {% endfor %}
-[Issue 2: Summer 2021]
+[Reform: Summer 2021]
 * An Interview with Rabbi Joshua Stanton 
 * The Whistleblower as Parrhesiastes by Mariel Montero 
 * Agrarian Reform and Counterrevolution in Guatemala by Jack Stephens
